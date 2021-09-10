@@ -5,5 +5,5 @@ _React native ile geliştirilen bu uygulamanın sahip olduğu özellikler_
 Eklenilmesi gerekenler=>
 Map Marker'ın hareket etmesi ve Draw buttonuna basıldığında polyline çizme özelliğinin gelmesi. Ayrıca Firebase modülü içeriyor fakat herhangi bir veritabanı bağlantısı yoktur.
 
-![LOGIN_PAGE]!(images/LoginPage.png)
-![MAP_PAGE]!(images/MapPage.png)
+![LOGIN_PAGE](images/LoginPage.png)
+![MAP_PAGE](images/MapPage.png)
